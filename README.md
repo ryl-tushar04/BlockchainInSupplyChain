@@ -2,9 +2,6 @@ here's the demo video link for then project:
 
 https://www.youtube.com/watch?v=gexcpl12Zio
 
-And her is the url for the app:
-
-https://blaze-blockchain.streamlit.app/
 
 
 here are some screenshots of the project 
